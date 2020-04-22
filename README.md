@@ -1,7 +1,7 @@
 # Termux-NetHunter
 Termux Nethunter GUI Installer 
 
-##Commands
+## Commands
 ```
 apt update -y;apt upgrade -y
 
